@@ -1,1 +1,1 @@
-![Tiffanys GitHub stats](https://github-readme-stats.vercel.app/api?username=tiff-git&show_icons=true&theme=radical)
+![Tiffanys GitHub stats](https://github-readme-stats.vercel.app/api?username=tiff-git&show_icons=true&theme=dracula)
