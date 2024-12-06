@@ -1,10 +1,1 @@
-<p align="center">
-  <br>
-  <samp>
-
-
-</samp>
-
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-
-
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em></em></p>
