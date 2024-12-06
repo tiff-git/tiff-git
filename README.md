@@ -4,5 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiff-git&hide_progress=true&theme=material-palenight)
 
-![image](https://github.com/user-attachments/assets/36e24334-9c6a-4274-b432-648dc7a8f154)
 
